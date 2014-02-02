@@ -1,0 +1,15 @@
+{
+    "name": "ideabile/phplogger",
+    "description": "Live logging with NodeJS service",
+    "require": {
+        "dnode/dnode": "dev-master"
+    },
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "Mauro Mandracchia",
+            "email": "info@ideabile.com"
+        }
+    ],
+    "minimum-stability": "alpha"
+}
