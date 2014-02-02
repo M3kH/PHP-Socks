@@ -16,7 +16,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   # The url from where the 'config.vm.box' box will be fetched if it
   # doesn't already exist on the user's system.
-  config.vm.box_url = "http://77.250.201.241/owncloud/public.php?service=files&t=eb1c871b471ce247599743743fe56b0a&download"
+  config.vm.box_url = "http://www.ideabile.com/boxes/socks.box"
 
   # Create a forwarded port mapping which allows access to a specific port
   # within the machine from a port on the host machine. In the example below,
