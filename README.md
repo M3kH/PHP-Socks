@@ -1,7 +1,7 @@
 PHP-Socks
 =========
 
-A full enviroment for PHP log integration with SocksLogger
+A full enviroment for PHP log integration with [SocksLogger](https://github.com/M3kH/socks-logger)
 
 Install
 ```
