@@ -1,7 +1,7 @@
 PHP-Socks
 =========
 
-A full enviroment for PHP log integration with [SocksLogger](https://github.com/M3kH/socks-logger)
+A full environment for PHP log integration with [SocksLogger](https://github.com/M3kH/socks-logger)
 
 Install
 ```
@@ -17,7 +17,7 @@ npm install
 node main.js
 ```
 
-Check-out: http://192.168.33.11:3000/ & run the thest http://192.168.33.11/test/Error.php
+Check-out: http://192.168.33.11:3232/ & run the test http://192.168.33.11/test/Error.php
 
 To run next time just
 ```
