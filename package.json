@@ -1,43 +1,38 @@
 {
-   "name":"PHP-Socks",
-   "version":"0.0.1",
-   "description":"A plug and Run enviroment for Logs PHP applications.",
-   "homepage":"https://github.com/m3kh/socks-logger/",
-   "keywords":[
-      "logs",
-      "logger",
-      "log",
-      "php",
-      "nodejs",
-      "dnode"
-   ],
-   "author":{
-      "name":"Mauro Mandracchia",
-      "email":"mauromandracchia@gmail.com",
-      "url":"http://www.ideabile.com/"
-   },
-   "repository":{
-      "type":"git",
-      "url":"git://github.com/m3kh/php-socks"
-   },
-   "bugs":{
-      "web":"http://github.com/m3kh/php-socks/issues/"
-   },
-   "directories":{
-      "test":"./test"
-   },
-   "dependencies":{
-      "dnode":"~1.2.0",
-      "public":"git://github.com/M3kH/socks-logger.git"
-   },
-   "devDependencies":{
-
-   },
-   "main":"./main.js",
-   "scripts":{
-
-   },
-   "bin":{
-
-   }
+  "name": "PHP-Socks",
+  "version": "0.0.1",
+  "description": "A plug and Run enviroment for Logs PHP applications.",
+  "homepage": "https://github.com/m3kh/socks-logger/",
+  "keywords": [
+    "logs",
+    "logger",
+    "log",
+    "php",
+    "nodejs",
+    "dnode"
+  ],
+  "author": {
+    "name": "Mauro Mandracchia",
+    "email": "mauromandracchia@gmail.com",
+    "url": "http://www.ideabile.com/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/m3kh/php-socks"
+  },
+  "bugs": {
+    "web": "http://github.com/m3kh/php-socks/issues/"
+  },
+  "directories": {
+    "test": "./test"
+  },
+  "dependencies": {
+    "dnode": "~1.2.0",
+    "public": "git://github.com/M3kH/socks-logger.git",
+    "forever-monitor": "~1.2.3"
+  },
+  "devDependencies": {},
+  "main": "./main.js",
+  "scripts": {},
+  "bin": {}
 }
